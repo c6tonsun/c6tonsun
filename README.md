@@ -3,7 +3,9 @@
 - 🌱 I have been Studio Manager for 2 years at TAMK Games Academy
 - 💞️ I have been programmer on two released projects:
     - https://github.com/c6tonsun/Not-CrashBash
+        - blogpost http://www.gamesacademy.fi/uncategorized/m0ti-and-crash-ball-release-name-might-change/
     - https://github.com/c6tonsun/ProjectDashinton
+        - blogpost http://www.gamesacademy.fi/uncategorized/games-academy-autumn-2017-d-a-s-h/
 - 📫 You can contact me by email toni.a.sundell@gmail.com 
 
 <!---
