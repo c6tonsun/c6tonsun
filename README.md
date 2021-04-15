@@ -9,7 +9,7 @@
     - D.A.S.H
         - Github https://github.com/c6tonsun/ProjectDashinton
         - blogpost http://www.gamesacademy.fi/uncategorized/games-academy-autumn-2017-d-a-s-h/
-        - download https://drive.google.com/file/d/1Cyp19-MFvAK3cR-BkkN2pT8Bmhg2rJuq/view?usp=sharing
+        - download https://drive.google.com/file/d/1Cyp19-MFvAK3cR-BkkN2pT8Bmhg2rJuq/view
 - 📫 You can contact me by email toni.a.sundell@gmail.com 
 
 <!---
