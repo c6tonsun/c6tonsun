@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Toni Sundell
 - 👀 I’m looking for work as Studio Manager / Game Programmer
 - 🌱 I have been Studio Manager for 2 years at TAMK Games Academy
-- 💞️ I have been programmer on two released projects:
+- 💞️ I have been programmer on two released games:
     - Crashball
         - Github https://github.com/c6tonsun/Not-CrashBash
         - blogpost http://www.gamesacademy.fi/uncategorized/m0ti-and-crash-ball-release-name-might-change/
