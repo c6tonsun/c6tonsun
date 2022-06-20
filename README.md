@@ -3,11 +3,11 @@
 - 🌱 I have been Studio Manager for 3 years at TAMK Games Academy
 - 💞️ I have been programmer on two released games:
     - Crashball
-        - blogpost http://www.gamesacademy.fi/uncategorized/m0ti-and-crash-ball-release-name-might-change/
-        - download https://drive.google.com/file/d/1YC2UzoXmrh9HTo0P997qVQfs_XyMS92T/view
+        - [blogpost](http://www.gamesacademy.fi/uncategorized/m0ti-and-crash-ball-release-name-might-change/)
+        - [download](https://drive.google.com/file/d/1YC2UzoXmrh9HTo0P997qVQfs_XyMS92T/view)
     - D.A.S.H
-        - blogpost http://www.gamesacademy.fi/uncategorized/games-academy-autumn-2017-d-a-s-h/
-        - download https://drive.google.com/file/d/1Cyp19-MFvAK3cR-BkkN2pT8Bmhg2rJuq/view
+        - [blogpost](http://www.gamesacademy.fi/uncategorized/games-academy-autumn-2017-d-a-s-h/)
+        - [download](https://drive.google.com/file/d/1Cyp19-MFvAK3cR-BkkN2pT8Bmhg2rJuq/view)
 - 📫 You can contact me by email toni.a.sundell@gmail.com 
 
 <!---
